@@ -1,3 +1,4 @@
+
 <!DOC<TYPE html>
 <html lang="pt-br">
  <head>
@@ -7,13 +8,14 @@
 </head>
  <body>
 
-    <h1>style=text-aling Sobre a Barbearia Alura
+    <h1> style="text-align: center"Sobre a Barbearia Alura
 
     <p>Localizada no coração da cidade a BarbeariaAlura tras para o mercado o que há de melhor para o seu cabelo e barba.Fundada em 2019, a Barbearia Alura ja é destaquena cidade e conquista novos clientes a cada dia</p>
 
-    <p style="font-size: 20px"><em>Nossa missão é "proporcionar auto-estima e qualidade de vida aos clientes".</p>
+    <p style="font-size: 20px;text-align: center;"><em>Nossa missão é "proporcionar auto-estima e qualidade de vida aos clientes".</p>
 
-    <p>Oferecemos profissionais experientes e antenados ás mudanças no mundo da moda.O atendimento possui padrão de exelência e agilidade,garantindo qualidade e satisfação dos nossos clientes</p>
+    <p style="text-align: center;">Oferecemos profissionais experientes e antenados ás mudanças no mundo da moda.O atendimento possui padrão de exelência e agilidade,garantindo qualidade e satisfação dos nossos clientes
+    </p>
      
  </body>
  
